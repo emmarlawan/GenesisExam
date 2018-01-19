@@ -9,4 +9,4 @@ OR
 
 1. Donwload Project
 2. Import project on eclipse
-3. Run Program
+3. Run Main Class on src com.callcenter.main
